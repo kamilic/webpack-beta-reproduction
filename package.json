@@ -1,0 +1,21 @@
+{
+  "name": "webpack-beta-reproduction",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {
+    "@webpack-cli/serve": "^0.2.0",
+    "html-webpack-plugin": "^4.3.0",
+    "html2canvas": "^1.0.0-rc.1",
+    "webpack": "^5.0.0-beta.16",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
